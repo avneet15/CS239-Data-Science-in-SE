@@ -1,0 +1,451 @@
+['src/test/java/jline/example/Example.java'],22
+"['src/test/java/jline/example/Example.java', 'src/main/java/jline/Terminal.java']",15
+"['src/test/java/jline/example/Example.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/example/Example.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/example/Example.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/example/Example.java', 'src/main/java/jline/console/ConsoleReader.java']",19
+['src/main/java/jline/console/History.java'],13
+['src/main/java/jline/console/ConsoleReader.java'],261
+['src/main/java/jline/console/completer/EnumCompleter.java'],13
+['pom.xml'],133
+"['pom.xml', 'src/main/java/jline/console/ConsoleReader.java']",22
+['src/main/java/jline/ConsoleReader.java'],22
+['src/main/java/jline/UnixTerminal.java'],86
+"['src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",37
+['src/main/java/jline/internal/Log.java'],22
+"['src/main/java/jline/internal/Log.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+['src/test/java/jline/console/CompletionTest.java'],13
+['src/main/java/jline/console/completer/ArgumentCompleter.java'],22
+"['src/main/java/jline/console/completer/ArgumentCompleter.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/console/completer/ArgumentCompleter.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/completer/ArgumentCompleter.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+['src/main/java/jline/internal/InputStreamReader.java'],13
+['src/main/java/jline/WindowsTerminal.java'],73
+"['src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",36
+"['src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",26
+"['src/main/java/jline/WindowsTerminal.java', 'pom.xml']",14
+"['src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",41
+['src/test/java/jline/console/completer/ArgumentCompleterTest.java'],13
+['src/test/java/jline/console/ConsoleReaderTest.java'],66
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",18
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",25
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",18
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",21
+"['src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",54
+['src/main/java/jline/console/CandidateListCompletionHandler.java'],21
+"['src/main/java/jline/console/CandidateListCompletionHandler.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+['src/main/java/jline/console/KeyMap.java'],57
+"['src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/KeyMap.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",16
+"['src/main/java/jline/console/KeyMap.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",15
+"['src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",45
+['src/main/java/jline/console/completer/FileNameCompleter.java'],21
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/completer/FileNameCompleter.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+['src/main/java/jline/console/internal/ConsoleRunner.java'],20
+['src/main/java/jline/internal/TerminalLineSettings.java'],55
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",31
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",19
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java']",16
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",16
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java']",18
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",26
+['src/main/java/jline/TerminalFactory.java'],54
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/UnixTerminal.java']",19
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/TerminalFactory.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",13
+"['src/main/java/jline/TerminalFactory.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/TerminalFactory.java', 'pom.xml']",14
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java']",24
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",21
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",14
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/console/ConsoleReader.java']",34
+['src/main/java/jline/console/completer/CandidateListCompletionHandler.java'],19
+['src/main/java/jline/TerminalSupport.java'],48
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",21
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",20
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java']",17
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java']",15
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",30
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",21
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",20
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",27
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",32
+['src/test/java/jline/internal/ConfigurationTest.java'],18
+"['src/test/java/jline/internal/ConfigurationTest.java', 'src/main/java/jline/internal/Configuration.java']",18
+"['src/test/java/jline/internal/ConfigurationTest.java', 'src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/internal/ConfigurationTest.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+['src/main/java/jline/console/completers/FileNameCompleter.java'],18
+['src/test/java/jline/console/ConsoleReaderTestSupport.java'],48
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java']",19
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",19
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",26
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",21
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",18
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",22
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java']",23
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",20
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",16
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",36
+['src/main/java/jline/Terminal.java'],47
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java']",32
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",18
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java']",16
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",26
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",18
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",24
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",29
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/UnixTerminal.java']",25
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",20
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/console/KeyMap.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",13
+"['src/main/java/jline/Terminal.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalFactory.java']",18
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java']",16
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalFactory.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java']",34
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",25
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",20
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",27
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/Terminal.java', 'src/main/java/jline/console/ConsoleReader.java']",33
+['src/main/java/jline/AnsiWindowsTerminal.java'],17
+"['src/main/java/jline/AnsiWindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+['src/main/java/jline/internal/Configuration.java'],34
+"['src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/KeyMap.java']",17
+"['src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/internal/Configuration.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",13
+"['src/main/java/jline/internal/Configuration.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",16
+"['src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/ConsoleReader.java']",20
+['src/main/java/jline/NoInterruptUnixTerminal.java'],16
+['src/test/java/jline/TerminalFactoryTest.java'],16
+"['src/test/java/jline/TerminalFactoryTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",14
+['src/main/java/jline/console/Operation.java'],33
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/Configuration.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/KeyMap.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/Configuration.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java']",28
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",28
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/Terminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java']",15
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/ConsoleReader.java']",33
+['src/test/java/jline/console/ViMoveModeTest.java'],33
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/KeyMap.java']",21
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",21
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java']",22
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java']",16
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",22
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/Operation.java']",15
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java']",15
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",13
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/ViMoveModeTest.java', 'src/main/java/jline/console/ConsoleReader.java']",32
+['src/test/java/jline/internal/TerminalLineSettingsTest.java'],16
+"['src/test/java/jline/internal/TerminalLineSettingsTest.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",14
+['README.md'],31
+['src/test/java/jline/console/history/HistoryTest.java'],16
+"['src/test/java/jline/console/history/HistoryTest.java', 'src/main/java/jline/console/CursorBuffer.java']",13
+"['src/test/java/jline/console/history/HistoryTest.java', 'src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/history/HistoryTest.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+['src/main/java/jline/console/completers/ArgumentCompleter.java'],16
+['src/main/java/jline/console/CursorBuffer.java'],29
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java']",15
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java']",17
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java']",15
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/WindowsTerminal.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/internal/TerminalLineSettings.java']",13
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/internal/TerminalLineSettings.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/CursorBuffer.java', 'src/main/java/jline/console/ConsoleReader.java']",24
+['src/main/java/jline/UnsupportedTerminal.java'],25
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java']",16
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",15
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/UnixTerminal.java']",21
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java']",21
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java']",15
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/UnixTerminal.java']",19
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java']",20
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",19
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/Terminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/WindowsTerminal.java']",21
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",20
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/main/java/jline/UnsupportedTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",18
+['src/main/java/jline/internal/ShutdownHooks.java'],15
+['src/main/java/jline/console/ConsoleKeys.java'],25
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/KeyMap.java']",18
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/Operation.java']",15
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java']",15
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/KeyMap.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/ConsoleReader.java']",15
+"['src/main/java/jline/console/ConsoleKeys.java', 'src/main/java/jline/console/ConsoleReader.java']",19
+['src/site/docbook/index.xml'],14
+['src/main/java/jline/internal/NonBlockingInputStream.java'],14
+"['src/main/java/jline/internal/NonBlockingInputStream.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+['src/main/java/jline/console/history/MemoryHistory.java'],25
+"['src/main/java/jline/console/history/MemoryHistory.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",13
+"['src/main/java/jline/console/history/MemoryHistory.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/main/java/jline/console/history/MemoryHistory.java', 'src/main/java/jline/console/ConsoleReader.java']",22
+['src/test/java/jline/console/EditLineTest.java'],24
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",21
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",19
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",17
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",19
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java']",23
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/TerminalSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java']",20
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java']",18
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",14
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",16
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/test/java/jline/console/ConsoleReaderTest.java', 'src/main/java/jline/console/ConsoleReader.java']",18
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java']",20
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",15
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",18
+"['src/test/java/jline/console/EditLineTest.java', 'src/test/java/jline/console/ConsoleReaderTestSupport.java', 'src/main/java/jline/console/ConsoleReader.java']",21
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/WindowsTerminal.java']",21
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",16
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",14
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",19
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/UnixTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/WindowsTerminal.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/Operation.java', 'src/main/java/jline/console/ConsoleReader.java']",13
+"['src/test/java/jline/console/EditLineTest.java', 'src/main/java/jline/console/ConsoleReader.java']",22
+['src/main/java/jline/console/history/FileHistory.java'],14
+"['src/main/java/jline/console/history/FileHistory.java', 'src/main/java/jline/console/history/MemoryHistory.java']",13
