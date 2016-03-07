@@ -13,8 +13,14 @@ url = "/home/ms/Desktop/239CS/jline2/.git"
 def main(args):
 
     file = open("Transactions.txt", "w")
+    # if we wish to append to existing file change w to a for all files
+    # file =open(<filename>,"a")
+
     repo=git.Repo(os.path.dirname(url),search_parent_directories=True)
     commits = list(repo.iter_commits('master'))
+
+    file_bugs =open("TransactionsRelatedToBugFixes.txt","w")
+
 
     #commit_objects = [] #no need for now
     file_dict={}
@@ -25,6 +31,12 @@ def main(args):
     consecutive_transactions_combined_count=0
     max_consecutive_transactions_combined_count=0
     print "Total Number of Commits: ",len(commits)
+
+    file2=open("TransactionWithoutCombining.txt","w")
+    write_individual_transactions(file2,commits)
+    file2.close()
+
+    print "Transaction with Combining similar transactions"
 
     for com in range(len(commits)-1):
 
@@ -39,6 +51,11 @@ def main(args):
         #eliminate changed_files which are empty
         if(len(changed_files)>0):
             c1 = Commit(com+1,commits[com].author,commits[com].message,changed_files,timestamp)
+
+            if("fix" in c1.commit_message.lower() or "issue" in c1.commit_message.lower() or "patch" in c1.commit_message.lower() or "bug" in c1.commit_message.lower() or "avoid" in c1.commit_message.lower() or "handle" in c1.commit_message.lower()):
+                file_bugs.write(','.join(changed_files))
+                file_bugs.write("\n")
+
 
             #Add file and author to dictionary
             for i in range(len(changed_files)):
@@ -97,7 +114,7 @@ def main(args):
 
     writePreviousCommitsToFile(file, None, prev_changed_files)
     file.close()
-
+    file_bugs.close()
 
     #Write all commit messages to file
     file = open("Support.txt", "w")
@@ -282,6 +299,19 @@ def combineTransactions(prev_changed_files,changed_files,prev):
                 prev_changed_files.append(changed_files[i])
 
     return prev_changed_files
+
+def write_individual_transactions(file,commits):
+    for com in range(len(commits)-1):
+
+            changed_files = []
+            timestamp = time.mktime(time.gmtime(commits[com].committed_date))
+
+            #get changed files between 2 consecutive commits
+            getChangedFiles(changed_files, com, commits)
+
+            if len(changed_files) > 0:
+                file.write(','.join(changed_files))
+                file.write("\n")
 
 if __name__ == '__main__':
     main(url)
