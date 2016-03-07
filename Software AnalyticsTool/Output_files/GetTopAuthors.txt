@@ -1,0 +1,399 @@
+src/main/java/jline/WindowsTerminal.java,Jason Dillon,36
+src/main/java/jline/WindowsTerminal.java,Colin Jones,8
+src/main/java/jline/WindowsTerminal.java,yinghui,7
+src/main/java/jline/console/ConsoleOperations.java,Jason Dillon,6
+src/main/resources/jline/win32-x86/jline.dll,Jason Dillon,3
+src/main/resources/jline/win32-x86/jline.dll,Hiram Chirino,1
+src/main/java/jline/internal/Configuration.java,Jason Dillon,12
+src/main/java/jline/internal/Configuration.java,Colin Jones,6
+src/main/java/jline/internal/Configuration.java,Guillaume Nodet,5
+src/test/java/jline/console/completers/NullCompleterTest.java,Jason Dillon,3
+src/test/java/jline/console/TestCompletion.java,Jason Dillon,2
+src/main/java/jline/ClassNameCompletor.java,mprudhom,2
+src/main/java/jline/ClassNameCompletor.java,Jason Dillon,1
+src/main/java/jline/ConsoleOperations.java,palminator,4
+src/main/java/jline/ConsoleOperations.java,mprudhom,2
+src/main/java/jline/ConsoleOperations.java,Jason Dillon,1
+src/main/java/jline/package-info.java,Jason Dillon,4
+src/main/java/jline/package-info.java,Colin Jones,2
+src/main/java/jline/package-info.java,Guillaume Nodet,1
+src/main/java/jline/completer/Completer.java,Jason Dillon,2
+src/test/java/jline/console/completer/NullCompleterTest.java,Jason Dillon,4
+src/test/java/jline/console/completer/NullCompleterTest.java,Colin Jones,2
+src/test/java/jline/console/completer/NullCompleterTest.java,Guillaume Nodet,1
+src/main/java/jline/console/completer/CandidateCycleCompletionHandler.java,Jason Dillon,2
+src/main/java/jline/internal/ShutdownHooks.java,Jason Dillon,10
+src/main/java/jline/internal/ShutdownHooks.java,Colin Jones,4
+src/main/java/jline/internal/ShutdownHooks.java,Guillaume Nodet,1
+src/main/java/jline/console/completers/ArgumentCompleter.java,Jason Dillon,16
+src/main/java/jline/console/completer/AggregateCompleter.java,Jason Dillon,6
+src/main/java/jline/console/completer/AggregateCompleter.java,Colin Jones,2
+src/main/java/jline/console/completer/AggregateCompleter.java,Guillaume Nodet,1
+src/test/java/jline/console/completers/StringsCompleterTest.java,Jason Dillon,5
+.gitignore,Guillaume Nodet,1
+.gitignore,Guillaume Nodet,1
+src/main/java/jline/Terminal2.java,Guillaume Nodet,4
+src/test/java/jline/JLineTestCase.java,Jason Dillon,3
+src/test/java/jline/JLineTestCase.java,mprudhom,2
+src/test/resources/jline/internal/config2,Guillaume Nodet,1
+src/main/java/jline/console/runner/ConsoleRunner.java,Jason Dillon,9
+src/main/java/jline/console/completers/StringsCompleter.java,Jason Dillon,6
+src/main/java/jline/internal/NativeLibrary.java,Jason Dillon,6
+src/main/java/jline/internal/NativeLibrary.java,Hiram Chirino,1
+src/test/java/jline/console/CompletionTest.java,Jason Dillon,13
+src/site/markdown/index.md,Jason Dillon,2
+src/site/markdown/index.md,Colin Jones,2
+src/site/markdown/index.md,Guillaume Nodet,1
+src/main/java/jline/NativeLibrary.java,Jason Dillon,5
+src/main/java/jline/FileNameCompletor.java,mprudhom,1
+src/main/java/jline/FileNameCompletor.java,Jason Dillon,1
+src/main/java/jline/console/history/PersistentHistory.java,Jason Dillon,5
+src/main/java/jline/console/history/PersistentHistory.java,Colin Jones,2
+src/main/java/jline/console/history/PersistentHistory.java,Guillaume Nodet,1
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Jason Dillon,4
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Guillaume Nodet,4
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Colin Jones,2
+CHANGELOG.md,Jason Dillon,3
+CHANGELOG.md,Colin Jones,3
+CHANGELOG.md,Guillaume Nodet,2
+src/test/java/jline/console/history/HistoryTest.java,Colin Jones,6
+src/test/java/jline/console/history/HistoryTest.java,Jason Dillon,4
+src/test/java/jline/console/history/HistoryTest.java,John Szakmeister,2
+src/test/java/jline/TerminalLineSettingsTest.java,Jean-Baptiste Onofre,1
+src/test/java/jline/TerminalLineSettingsTest.java,Jason Dillon,1
+src/main/java/jline/internal/Ansi.java,Guillaume Nodet,2
+src/main/java/jline/internal/ReplayPrefixOneCharInputStream.java,Jason Dillon,3
+src/main/java/jline/internal/ReplayPrefixOneCharInputStream.java,Guillaume Nodet,1
+src/main/java/jline/Completor.java,mprudhom,2
+src/main/java/jline/Completor.java,Jason Dillon,1
+src/main/java/jline/console/completionhandler/CompletionHandler.java,Jason Dillon,3
+src/main/java/jline/console/SimpleHistory.java,Jason Dillon,7
+src/main/java/jline/console/completer/AnsiStringsCompleter.java,Guillaume Nodet,3
+src/test/java/jline/ConsoleReaderTest.java,Jason Dillon,3
+src/test/java/jline/ConsoleReaderTest.java,mprudhom,1
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Jason Dillon,4
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Colin Jones,2
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Guillaume Nodet,1
+src/main/java/jline/console/history/History.java,Jason Dillon,6
+src/main/java/jline/console/history/History.java,Colin Jones,2
+src/main/java/jline/console/history/History.java,Charles Oliver Nutter,2
+src/test/java/jline/console/history/FileHistoryTest.java,Guillaume Nodet,2
+src/main/java/jline/TerminalSupport.java,Jason Dillon,27
+src/main/java/jline/TerminalSupport.java,Colin Jones,7
+src/main/java/jline/TerminalSupport.java,Guillaume Nodet,3
+src/main/java/jline/AnsiWindowsTerminal.java,Jason Dillon,7
+src/main/java/jline/AnsiWindowsTerminal.java,Colin Jones,4
+src/main/java/jline/AnsiWindowsTerminal.java,huynhjl,2
+src/main/java/jline/console/Key.java,Jason Dillon,5
+src/main/java/jline/console/Key.java,Hannes Wallnofer,2
+src/main/java/jline/console/Key.java,Guillaume Nodet,1
+src/main/java/jline/TerminalFactory.java,Jason Dillon,24
+src/main/java/jline/TerminalFactory.java,Colin Jones,8
+src/main/java/jline/TerminalFactory.java,Guillaume Nodet,5
+src/main/java/jline/internal/TestAccessible.java,Jason Dillon,5
+src/main/java/jline/internal/TestAccessible.java,Colin Jones,4
+src/main/java/jline/internal/TestAccessible.java,Guillaume Nodet,1
+src/main/java/jline/console/CandidateListCompletionHandler.java,Jason Dillon,23
+src/main/java/jline/package.html,Jason Dillon,1
+src/main/java/jline/CandidateListCompletionHandler.java,mprudhom,4
+src/main/java/jline/CandidateListCompletionHandler.java,palminator,1
+src/main/java/jline/CandidateListCompletionHandler.java,Jason Dillon,1
+src/main/java/jline/console/completers/AggregateCompleter.java,Jason Dillon,6
+pom.xml,Jason Dillon,68
+pom.xml,Guillaume Nodet,24
+pom.xml,mprudhom,12
+src/main/java/jline/internal/NonBlockingInputStream.java,Scott Gray,4
+src/main/java/jline/internal/NonBlockingInputStream.java,Jason Dillon,4
+src/main/java/jline/internal/NonBlockingInputStream.java,Guillaume Nodet,2
+src/site/resources/.DS_Store,Jason Dillon,1
+src/test/java/jline/internal/CursesTest.java,Guillaume Nodet,2
+src/main/java/jline/Terminal.java,Jason Dillon,20
+src/main/java/jline/Terminal.java,mprudhom,9
+src/main/java/jline/Terminal.java,Colin Jones,6
+src/main/java/jline/console/completer/NullCompleter.java,Jason Dillon,8
+src/main/java/jline/console/completer/NullCompleter.java,Colin Jones,2
+src/main/java/jline/console/completer/NullCompleter.java,Guillaume Nodet,1
+src/main/java/jline/internal/package-info.java,Jason Dillon,4
+src/main/java/jline/internal/package-info.java,Colin Jones,2
+src/main/java/jline/internal/package-info.java,Guillaume Nodet,1
+src/test/resources/jline/emtpy-config,Guillaume Nodet,1
+src/main/java/jline/console/FileHistory.java,Jason Dillon,5
+src/test/java/jline/console/TestHistory.java,Jason Dillon,2
+src/test/java/jline/internal/ConfigurationTest.java,Jason Dillon,5
+src/test/java/jline/internal/ConfigurationTest.java,Colin Jones,5
+src/test/java/jline/internal/ConfigurationTest.java,Guillaume Nodet,4
+src/main/java/jline/console/completers/ClassNameCompleter.java,Jason Dillon,2
+src/main/java/jline/ArgumentCompletor.java,mprudhom,2
+src/main/java/jline/ArgumentCompletor.java,Jason Dillon,1
+src/main/java/jline/UnixTerminal.java,Jason Dillon,32
+src/main/java/jline/UnixTerminal.java,Colin Jones,13
+src/main/java/jline/UnixTerminal.java,mprudhom,12
+src/main/java/jline/console/history/MemoryHistory.java,Jason Dillon,10
+src/main/java/jline/console/history/MemoryHistory.java,Guillaume Nodet,5
+src/main/java/jline/console/history/MemoryHistory.java,Colin Jones,4
+src/test/java/jline/console/JLineTestCase.java,Jason Dillon,2
+src/main/resources/jline/CandidateListCompletionHandler.properties,mprudhom,1
+src/main/resources/jline/CandidateListCompletionHandler.properties,Jason Dillon,1
+src/main/java/jline/console/completers/FileNameCompleter.java,Jason Dillon,18
+src/main/java/jline/console/completer/ArgumentCompleter.java,Jason Dillon,10
+src/main/java/jline/console/completer/ArgumentCompleter.java,Colin Jones,4
+src/main/java/jline/console/completer/ArgumentCompleter.java,Guillaume Nodet,3
+src/assembly/assembly.xml,Jason Dillon,2
+src/assembly/assembly.xml,mprudhom,1
+src/main/java/jline/console/PersistentHistory.java,Jason Dillon,3
+src/test/java/jline/console/HistorySearchTest.java,Colin Jones,5
+src/test/java/jline/console/HistorySearchTest.java,Guillaume Nodet,1
+src/main/java/jline/console/history/package-info.java,Jason Dillon,4
+src/main/java/jline/console/history/package-info.java,Colin Jones,2
+src/main/java/jline/console/history/package-info.java,Guillaume Nodet,1
+header.txt,Jason Dillon,3
+header.txt,Colin Jones,2
+header.txt,Guillaume Nodet,1
+src/main/java/jline/console/ConsoleRunner.java,Jason Dillon,3
+src/main/java/jline/console/CandidateCycleCompletionHandler.java,Jason Dillon,2
+src/test/java/jline/console/KillRingTest.java,Manuel Sugawara,4
+src/test/java/jline/console/KillRingTest.java,Colin Jones,2
+src/test/java/jline/console/KillRingTest.java,Mark Harrah,1
+src/main/java/jline/completer/NullCompleter.java,Jason Dillon,2
+src/main/java/jline/CandidateCycleCompletionHandler.java,mprudhom,1
+src/main/java/jline/CandidateCycleCompletionHandler.java,Jason Dillon,1
+src/test/java/jline/console/completer/StringsCompleterTest.java,Jason Dillon,4
+src/test/java/jline/console/completer/StringsCompleterTest.java,Colin Jones,2
+src/test/java/jline/console/completer/StringsCompleterTest.java,Guillaume Nodet,1
+src/main/java/jline/internal/Preconditions.java,Jason Dillon,4
+src/main/java/jline/internal/Preconditions.java,Colin Jones,2
+src/main/java/jline/internal/Preconditions.java,Guillaume Nodet,1
+src/main/java/jline/console/completionhandler/CandidateListCompletionHandler.java,Jason Dillon,4
+src/main/java/jline/console/completers/EnumCompleter.java,Jason Dillon,4
+src/main/resources/jline/jline.dll,mprudhom,1
+src/main/java/jline/console/completer/CompletionHandler.java,Jason Dillon,7
+src/main/java/jline/console/completer/CompletionHandler.java,Colin Jones,2
+src/main/java/jline/console/completer/CompletionHandler.java,Guillaume Nodet,1
+src/main/java/jline/console/History.java,Jason Dillon,13
+src/site/resources/images/ico_file_pdf.png,Jason Dillon,1
+src/main/java/jline/console/CompletionHandler.java,Jason Dillon,10
+src/main/java/jline/console/completer/SimpleCompleter.java,Jason Dillon,3
+src/main/java/jline/console/ConsoleReaderShutdownHook.java,Scott Gray,2
+src/test/java/jline/example/PasswordReader.java,Jason Dillon,4
+src/test/java/jline/example/PasswordReader.java,Colin Jones,4
+src/test/java/jline/example/PasswordReader.java,mprudhom,1
+src/main/resources/jline/jline64.dll,mprudhom,1
+src/main/resources/jline/jline64.dll,Jason Dillon,1
+src/main/java/jline/console/WCWidth.java,Guillaume Nodet,3
+src/test/java/jline/TerminalFactoryTest.java,Jason Dillon,10
+src/test/java/jline/TerminalFactoryTest.java,Guillaume Nodet,2
+src/test/java/jline/TerminalFactoryTest.java,Guillaume Nodet,2
+src/main/java/jline/console/UserInterruptException.java,David Phillips,2
+src/main/java/jline/console/UserInterruptException.java,Colin Jones,2
+src/main/java/jline/console/UserInterruptException.java,Jason Dillon,1
+src/test/java/jline/TestEditLine.java,Jason Dillon,3
+src/test/java/jline/TestEditLine.java,mprudhom,1
+src/main/java/jline/internal/Curses.java,Guillaume Nodet,2
+src/site/site.xml,Jason Dillon,5
+src/site/site.xml,Colin Jones,2
+src/site/site.xml,mprudhom,1
+src/main/resources/jline/keybindings.properties,palminator,4
+src/main/resources/jline/keybindings.properties,mprudhom,3
+src/main/resources/jline/keybindings.properties,Hannes Wallnofer,2
+src/main/java/jline/History.java,mprudhom,2
+src/main/java/jline/History.java,Jason Dillon,1
+src/main/java/jline/console/ConsoleKeys.java,Colin Jones,9
+src/main/java/jline/console/ConsoleKeys.java,Jason Dillon,5
+src/main/java/jline/console/ConsoleKeys.java,Scott Gray,4
+src/main/java/jline/internal/Log.java,Jason Dillon,12
+src/main/java/jline/internal/Log.java,Colin Jones,4
+src/main/java/jline/internal/Log.java,Guillaume Nodet,3
+src/main/java/jline/console/completers/FilterStringsCompleter.java,Jason Dillon,2
+src/main/java/jline/console/MemoryHistory.java,Jason Dillon,2
+src/site/resources/images/external.png,Jason Dillon,1
+src/main/java/jline/console/completer/FileNameCompleter.java,Jason Dillon,11
+src/main/java/jline/console/completer/FileNameCompleter.java,Colin Jones,6
+src/main/java/jline/console/completer/FileNameCompleter.java,Thibault Kruse,1
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Jason Dillon,22
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Colin Jones,10
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Scott Gray,6
+src/test/resources/jline/example/english.gz,Jason Dillon,1
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Jason Dillon,7
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Guillaume Nodet,6
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Guillaume Nodet,3
+src/main/java/jline/MultiCompletor.java,mprudhom,1
+src/main/java/jline/MultiCompletor.java,Jason Dillon,1
+src/main/java/jline/console/completers/NullCompleter.java,Jason Dillon,4
+src/main/java/jline/ANSIBuffer.java,mprudhom,1
+src/main/java/jline/ANSIBuffer.java,Jason Dillon,1
+src/main/java/jline/CompletionHandler.java,mprudhom,1
+src/main/java/jline/CompletionHandler.java,Jason Dillon,1
+src/test/java/jline/readline/KeyMapTest.java,Jason Dillon,3
+src/test/java/jline/readline/KeyMapTest.java,Colin Jones,2
+src/test/java/jline/readline/KeyMapTest.java,Guillaume Nodet,1
+src/main/java/jline/NoInterruptUnixTerminal.java,Jason Dillon,6
+src/main/java/jline/NoInterruptUnixTerminal.java,Colin Jones,4
+src/main/java/jline/NoInterruptUnixTerminal.java,Guillaume Nodet,3
+src/main/java/jline/console/completer/ClassNameCompleter.java,Jason Dillon,2
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Jason Dillon,3
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Guillaume Nodet,3
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Colin Jones,3
+src/test/resources/jline/internal/jlinerc2,Jason Dillon,2
+src/test/resources/jline/internal/jlinerc2,Colin Jones,1
+src/test/java/jline/TestCompletion.java,Jason Dillon,3
+src/test/java/jline/TestCompletion.java,mprudhom,2
+src/main/java/jline/CursorBuffer.java,mprudhom,3
+src/main/java/jline/CursorBuffer.java,palminator,1
+src/main/java/jline/CursorBuffer.java,Jason Dillon,1
+src/main/native/jline_WindowsTerminal.h,Jason Dillon,2
+src/main/native/jline_WindowsTerminal.h,Hiram Chirino,1
+src/main/native/jline_WindowsTerminal.c,Jason Dillon,3
+src/main/native/jline_WindowsTerminal.c,Hiram Chirino,1
+src/main/java/jline/ConsoleRunner.java,mprudhom,2
+src/main/java/jline/ConsoleRunner.java,Jason Dillon,1
+src/main/resources/jline/jline32.dll,mprudhom,1
+src/main/resources/jline/jline32.dll,Jason Dillon,1
+src/main/native/Makefile,Jason Dillon,2
+src/main/native/Makefile,mprudhom,1
+src/main/native/Makefile,Hiram Chirino,1
+src/main/java/jline/console/VirtualKey.java,Jason Dillon,2
+src/site/apt/downloads.apt,mprudhom,1
+src/site/apt/downloads.apt,Jason Dillon,1
+src/site/apt/building.apt,mprudhom,1
+src/site/apt/building.apt,Jason Dillon,1
+src/main/java/jline/NullCompletor.java,mprudhom,1
+src/main/java/jline/NullCompletor.java,Jason Dillon,1
+src/test/resources/jline/internal/jlinerc1,Jason Dillon,1
+src/test/java/jline/console/ConsoleReaderTest.java,Jason Dillon,26
+src/test/java/jline/console/ConsoleReaderTest.java,Guillaume Nodet,11
+src/test/java/jline/console/ConsoleReaderTest.java,Colin Jones,11
+src/main/java/jline/console/Completer.java,Jason Dillon,8
+src/test/resources/jline/internal/config1,Guillaume Nodet,1
+README.md,Jason Dillon,19
+README.md,Colin Jones,5
+README.md,Guillaume Nodet,4
+src/main/resources/jline/console/CandidateListCompletionHandler.properties,Jason Dillon,4
+src/main/java/jline/console/completer/package-info.java,Jason Dillon,5
+src/main/java/jline/console/completer/package-info.java,Colin Jones,2
+src/main/java/jline/console/completer/package-info.java,Guillaume Nodet,1
+src/main/java/jline/console/package-info.java,Jason Dillon,4
+src/main/java/jline/console/package-info.java,Colin Jones,2
+src/main/java/jline/console/package-info.java,Guillaume Nodet,1
+src/site/docbook/index.xml,mprudhom,10
+src/site/docbook/index.xml,Jason Dillon,4
+src/main/java/jline/internal/InfoCmp.java,Guillaume Nodet,3
+src/site/resources/images/logo.jpg,Jason Dillon,1
+src/main/java/jline/Log.java,Jason Dillon,4
+src/test/java/jline/example/Example.java,Jason Dillon,7
+src/test/java/jline/example/Example.java,Guillaume Nodet,4
+src/test/java/jline/example/Example.java,Guillaume Nodet,3
+src/main/java/jline/console/runner/ConsoleReaderInputStream.java,Jason Dillon,6
+src/main/java/jline/console/ConsoleReader.java,Jason Dillon,85
+src/main/java/jline/console/ConsoleReader.java,Colin Jones,37
+src/main/java/jline/console/ConsoleReader.java,Guillaume Nodet,31
+src/test/java/jline/console/completers/ArgumentCompleterTest.java,Jason Dillon,5
+src/main/java/jline/internal/InputStreamReader.java,Jason Dillon,5
+src/main/java/jline/internal/InputStreamReader.java,Colin Jones,5
+src/main/java/jline/internal/InputStreamReader.java,Guillaume Nodet,2
+src/main/java/jline/JLineBuffer.java,palminator,1
+src/main/java/jline/JLineBuffer.java,mprudhom,1
+src/main/java/jline/console/completers/package-info.java,Jason Dillon,2
+src/test/java/jline/console/HistoryTest.java,Jason Dillon,9
+src/main/resources/jline/windowsbindings.properties,Guillaume Nodet,3
+src/main/resources/jline/windowsbindings.properties,Jason Dillon,2
+src/main/resources/jline/windowsbindings.properties,mprudhom,1
+src/site/resources/images/dotted.png,Jason Dillon,1
+src/main/java/jline/UnsupportedTerminal.java,Jason Dillon,17
+src/main/java/jline/UnsupportedTerminal.java,mprudhom,4
+src/main/java/jline/UnsupportedTerminal.java,Colin Jones,2
+src/main/java/jline/console/completer/StringsCompleter.java,Jason Dillon,6
+src/main/java/jline/console/completer/StringsCompleter.java,Guillaume Nodet,2
+src/main/java/jline/console/completer/StringsCompleter.java,Colin Jones,2
+src/site/resources/images/newwindow.png,Jason Dillon,1
+src/main/java/jline/completer/MultiCompleter.java,Jason Dillon,2
+src/test/java/jline/console/EditLineTest.java,Jason Dillon,11
+src/test/java/jline/console/EditLineTest.java,Colin Jones,7
+src/test/java/jline/console/EditLineTest.java,Guillaume Nodet,2
+src/main/java/jline/console/KeyMap.java,Colin Jones,13
+src/main/java/jline/console/KeyMap.java,Scott Gray,12
+src/main/java/jline/console/KeyMap.java,Guillaume Nodet,10
+src/main/java/jline/ConsoleReader.java,mprudhom,13
+src/main/java/jline/ConsoleReader.java,palminator,5
+src/main/java/jline/ConsoleReader.java,user57,1
+src/main/java/jline/SimpleCompletor.java,mprudhom,1
+src/main/java/jline/SimpleCompletor.java,Jason Dillon,1
+src/main/java/jline/console/completer/EnumCompleter.java,Jason Dillon,6
+src/main/java/jline/console/completer/EnumCompleter.java,Guillaume Nodet,2
+src/main/java/jline/console/completer/EnumCompleter.java,Colin Jones,2
+LICENSE.txt,Jason Dillon,3
+LICENSE.txt,Colin Jones,2
+LICENSE.txt,Guillaume Nodet,1
+src/main/java/jline/console/internal/ConsoleRunner.java,Jason Dillon,7
+src/main/java/jline/console/internal/ConsoleRunner.java,Colin Jones,7
+src/main/java/jline/console/internal/ConsoleRunner.java,Guillaume Nodet,2
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Colin Jones,4
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Mike Drob,1
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Guillaume Nodet,1
+src/main/java/jline/console/Operation.java,Jason Dillon,8
+src/main/java/jline/console/Operation.java,Colin Jones,8
+src/main/java/jline/console/Operation.java,Scott Gray,4
+src/main/java/jline/completer/ArgumentCompleter.java,Jason Dillon,2
+src/main/java/jline/internal/Nullable.java,Jason Dillon,5
+src/main/java/jline/internal/Nullable.java,Colin Jones,4
+src/main/java/jline/internal/Nullable.java,Guillaume Nodet,1
+src/site/resources/images/collapsed.png,Jason Dillon,1
+src/test/java/jline/TestHistory.java,Jason Dillon,3
+src/test/java/jline/TestHistory.java,mprudhom,2
+src/site/resources/css/site.css,Jason Dillon,2
+src/site/resources/css/site.css,mprudhom,1
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Jason Dillon,5
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Colin Jones,2
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Jan Lahoda,1
+src/site/fml/faq.fml,Jason Dillon,1
+src/main/java/jline/internal/TerminalLineSettings.java,Jason Dillon,13
+src/main/java/jline/internal/TerminalLineSettings.java,Colin Jones,9
+src/main/java/jline/internal/TerminalLineSettings.java,Guillaume Nodet,8
+src/site/resources/images/jline.jpg,Colin Jones,2
+src/site/resources/images/jline.jpg,Jason Dillon,1
+src/main/java/jline/internal/ShutdownHook.java,Jason Dillon,2
+src/test/resources/jline/internal/config-bad,Colin Jones,5
+src/test/resources/jline/internal/config-bad,Travis Watkins,1
+src/test/resources/jline/internal/config-bad,Guillaume Nodet,1
+codestyle.xml,mprudhom,1
+src/test/java/jline/console/TestEditLine.java,Jason Dillon,2
+src/test/java/jline/console/history/MemoryHistoryTest.java,Jason Dillon,5
+src/test/java/jline/console/history/MemoryHistoryTest.java,Colin Jones,3
+src/test/java/jline/console/history/MemoryHistoryTest.java,Guillaume Nodet,2
+src/main/resources/jline/win32-amd64/jline.dll,Jason Dillon,3
+src/main/resources/jline/win32-amd64/jline.dll,Hiram Chirino,1
+src/main/java/jline/console/KillRing.java,Manuel Sugawara,3
+src/main/java/jline/console/KillRing.java,Guillaume Nodet,2
+src/main/java/jline/console/KillRing.java,Colin Jones,2
+src/main/java/jline/ConsoleReaderInputStream.java,mprudhom,2
+src/main/java/jline/ConsoleReaderInputStream.java,Jason Dillon,1
+src/test/java/jline/internal/LogTest.java,Jason Dillon,5
+src/test/java/jline/internal/LogTest.java,Colin Jones,4
+src/test/java/jline/internal/LogTest.java,Guillaume Nodet,1
+src/main/java/jline/completer/SimpleCompleter.java,Jason Dillon,2
+src/main/java/jline/internal/Urls.java,Jason Dillon,4
+src/main/java/jline/internal/Urls.java,Colin Jones,2
+src/main/java/jline/internal/Urls.java,Guillaume Nodet,1
+src/test/java/jline/internal/InfoCmpTest.java,Guillaume Nodet,3
+src/main/java/jline/completer/FileNameCompleter.java,Jason Dillon,2
+src/main/java/jline/console/CursorBuffer.java,Jason Dillon,17
+src/main/java/jline/console/CursorBuffer.java,Colin Jones,6
+src/main/java/jline/console/CursorBuffer.java,Scott Gray,2
+src/site/resources/images/expanded.png,Jason Dillon,1
+src/main/java/jline/console/completer/Completer.java,Jason Dillon,8
+src/main/java/jline/console/completer/Completer.java,Colin Jones,2
+src/main/java/jline/console/completer/Completer.java,Guillaume Nodet,1
+src/main/java/jline/completer/ClassNameCompleter.java,Jason Dillon,2
+src/main/java/jline/DefaultTerminal2.java,Guillaume Nodet,3
+src/main/java/jline/OSvTerminal.java,Arun Babu Neelicattu,2
+src/main/java/jline/OSvTerminal.java,Guillaume Nodet,1
+src/main/java/jline/OSvTerminal.java,Guillaume Nodet,1
+src/main/java/jline/JLineStringBuilder.java,palminator,1
+src/main/java/jline/JLineStringBuilder.java,mprudhom,1
+src/main/java/jline/console/history/FileHistory.java,Jason Dillon,9
+src/main/java/jline/console/history/FileHistory.java,Guillaume Nodet,2
+src/main/java/jline/console/history/FileHistory.java,Colin Jones,2
+src/test/java/jline/console/ViMoveModeTest.java,Scott Gray,13
+src/test/java/jline/console/ViMoveModeTest.java,Colin Jones,7
+src/test/java/jline/console/ViMoveModeTest.java,Jason Dillon,3
+src/main/java/jline/console/completionhandler/CandidateCycleCompletionHandler.java,Jason Dillon,2
+src/main/java/jline/console/ConsoleReaderInputStream.java,Jason Dillon,3

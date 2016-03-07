@@ -1,0 +1,738 @@
+src/main/java/jline/WindowsTerminal.java,Update copyright year
+src/main/java/jline/WindowsTerminal.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/WindowsTerminal.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/WindowsTerminal.java,Eliminate warnings about resources and unused varsThis fixes some warning..
+src/main/java/jline/WindowsTerminal.java,Fix for Alt Gr keyboard combinations: check that Ctrl key is not pressed al..
+src/main/java/jline/console/ConsoleOperations.java,Split up key and operation  drop ConsoleOperations intf
+src/main/java/jline/console/ConsoleOperations.java,Converted most of ConsoleOperations to VirtualKey enum
+src/main/java/jline/console/ConsoleOperations.java,Tidy
+src/main/java/jline/console/ConsoleOperations.java,More clean up muck
+src/main/java/jline/console/ConsoleOperations.java,Tidy
+src/main/resources/jline/win32-x86/jline.dll,Bring back HawtJNI  for 2.4-SNAPSHOT...Revert "Reverting master back to 9..
+src/main/resources/jline/win32-x86/jline.dll,Reverting master back to 93ac8cb106326f239c37f744ad91065d001acb73 (pre-hawt..
+src/main/resources/jline/win32-x86/jline.dll,Reuse jani's native methods so we can get rid of our jni implementation
+src/main/resources/jline/win32-x86/jline.dll,Re-implemented native lib loading
+src/main/java/jline/internal/Configuration.java,Update copyright year
+src/main/java/jline/internal/Configuration.java,Support JUL as a logging mechanismFixes #93
+src/main/java/jline/internal/Configuration.java,Fix getting encoding from the system environmentThis change improves the ..
+src/main/java/jline/internal/Configuration.java,Merge pull request #160 from gertv/undef_on_hpuxFix stty undef on HP-UX
+src/main/java/jline/internal/Configuration.java,Added support for custom terminal devices
+src/test/java/jline/console/completers/NullCompleterTest.java,Re-org jline stuff a little
+src/test/java/jline/console/completers/NullCompleterTest.java,More tidy muck
+src/test/java/jline/console/completers/NullCompleterTest.java,Some more clean up  and tests
+src/test/java/jline/console/TestCompletion.java,Fixed up tests
+src/test/java/jline/console/TestCompletion.java,Get everything compiling again
+src/main/java/jline/ClassNameCompletor.java,some initial reorg
+src/main/java/jline/ClassNameCompletor.java,Formatting fixes; copyright date updates
+src/main/java/jline/ClassNameCompletor.java,Fixed bug #991465
+src/main/java/jline/ConsoleOperations.java,some initial reorg
+src/main/java/jline/ConsoleOperations.java,Backspace now works an shell and x-term aswell
+src/main/java/jline/ConsoleOperations.java,Fix keybinding (got confused the last time I played with those)
+src/main/java/jline/ConsoleOperations.java,Improvement.
+src/main/java/jline/ConsoleOperations.java,Linux console now interprets the System Property input.encoding and should ..
+src/main/java/jline/package-info.java,Update copyright year
+src/main/java/jline/package-info.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/package-info.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/package-info.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/package-info.java,Update log to special case last message if its an exception
+src/main/java/jline/completer/Completer.java,Tidy
+src/main/java/jline/completer/Completer.java,some initial reorg
+src/test/java/jline/console/completer/NullCompleterTest.java,Update copyright year
+src/test/java/jline/console/completer/NullCompleterTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/completer/NullCompleterTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/console/completer/NullCompleterTest.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/test/java/jline/console/completer/NullCompleterTest.java,Update log to special case last message if its an exception
+src/main/java/jline/console/completer/CandidateCycleCompletionHandler.java,Move completion handlers for now
+src/main/java/jline/console/completer/CandidateCycleCompletionHandler.java,Tidy
+src/main/java/jline/internal/ShutdownHooks.java,Update copyright year
+src/main/java/jline/internal/ShutdownHooks.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/ShutdownHooks.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/ShutdownHooks.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/internal/ShutdownHooks.java,Avoid blowing up if nonBlockingInput is not really non-blocking
+src/main/java/jline/console/completers/ArgumentCompleter.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/ArgumentCompleter.java,Changed jline version to 2.3-SNAPSHOTUpdated ArgumentCompleter to use a Li..
+src/main/java/jline/console/completers/ArgumentCompleter.java,Tidy
+src/main/java/jline/console/completers/ArgumentCompleter.java,Tidy
+src/main/java/jline/console/completers/ArgumentCompleter.java,Some more clean up  and tests
+src/main/java/jline/console/completer/AggregateCompleter.java,Update copyright year
+src/main/java/jline/console/completer/AggregateCompleter.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/AggregateCompleter.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/AggregateCompleter.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/completer/AggregateCompleter.java,Update log to special case last message if its an exception
+src/test/java/jline/console/completers/StringsCompleterTest.java,Re-org jline stuff a little
+src/test/java/jline/console/completers/StringsCompleterTest.java,More tidy muck
+src/test/java/jline/console/completers/StringsCompleterTest.java,Some more clean up  and tests
+src/test/java/jline/console/completers/StringsCompleterTest.java,Tidy
+src/test/java/jline/console/completers/StringsCompleterTest.java,Build a test jar  move completers to seperate tests
+.gitignore,Build cleanup  fixes #191
+.gitignore,Add .gitignore file
+src/main/java/jline/Terminal2.java,Update copyright year
+src/main/java/jline/Terminal2.java,Clean up InfoCmp a bit
+src/main/java/jline/Terminal2.java,Build cleanup  fixes #191
+src/main/java/jline/Terminal2.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/test/java/jline/JLineTestCase.java,Get everything compiling again
+src/test/java/jline/JLineTestCase.java,Tidy
+src/test/java/jline/JLineTestCase.java,some initial reorg
+src/test/java/jline/JLineTestCase.java,Formatting fixes; copyright date updates
+src/test/java/jline/JLineTestCase.java,Patch for issue #1649790 submitted by Ryan Bell to get more keys to work on..
+src/test/resources/jline/internal/config2,Big refactoring of the jline key binding support to be closer to readline()..
+src/main/java/jline/console/runner/ConsoleRunner.java,Move to console.internal until this stuff can be cleaned up for proper publ..
+src/main/java/jline/console/runner/ConsoleRunner.java,Merge branch 'console-runner'
+src/main/java/jline/console/runner/ConsoleRunner.java,Change groupId back to jline
+src/main/java/jline/console/runner/ConsoleRunner.java,Bring back ConsoleRunner which was accidentally (?) nuked in 677269e5d428e5..
+src/main/java/jline/console/runner/ConsoleRunner.java,More clean up muck
+src/main/java/jline/console/completers/StringsCompleter.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/StringsCompleter.java,Optimize slightly
+src/main/java/jline/console/completers/StringsCompleter.java,Tidy
+src/main/java/jline/console/completers/StringsCompleter.java,Tidy
+src/main/java/jline/console/completers/StringsCompleter.java,Using CharSequence
+src/main/java/jline/internal/NativeLibrary.java,Bring back HawtJNI  for 2.4-SNAPSHOT...Revert "Reverting master back to 9..
+src/main/java/jline/internal/NativeLibrary.java,Reverting master back to 93ac8cb106326f239c37f744ad91065d001acb73 (pre-hawt..
+src/main/java/jline/internal/NativeLibrary.java,Reuse jani's native methods so we can get rid of our jni implementation
+src/main/java/jline/internal/NativeLibrary.java,Tidy
+src/main/java/jline/internal/NativeLibrary.java,Add some constants
+src/test/java/jline/console/CompletionTest.java,Build a test jar  move completers to seperate tests
+src/test/java/jline/console/CompletionTest.java,Update spelling
+src/test/java/jline/console/CompletionTest.java,Tidy imports
+src/test/java/jline/console/CompletionTest.java,Tidy
+src/test/java/jline/console/CompletionTest.java,Fix all completer sp
+src/site/markdown/index.md,Update copyright year
+src/site/markdown/index.md,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/site/markdown/index.md,Avoid NPE in case of an empty config cache
+src/site/markdown/index.md,Update headers
+src/site/markdown/index.md,Initial site config
+src/main/java/jline/NativeLibrary.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/main/java/jline/NativeLibrary.java,More clean up  some docs
+src/main/java/jline/NativeLibrary.java,Tidy
+src/main/java/jline/NativeLibrary.java,More clean up muck
+src/main/java/jline/NativeLibrary.java,Re-implemented native lib loading
+src/main/java/jline/FileNameCompletor.java,some initial reorg
+src/main/java/jline/FileNameCompletor.java,Formatting fixes; copyright date updates
+src/main/java/jline/console/history/PersistentHistory.java,Update copyright year
+src/main/java/jline/console/history/PersistentHistory.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/history/PersistentHistory.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/history/PersistentHistory.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/history/PersistentHistory.java,Update log to special case last message if its an exception
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Update copyright year
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Fixes #148
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Merge pull request #193 from ctubbsii/lc-fixFix getting encoding from the..
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,Fix getting encoding from the system environmentThis change improves the ..
+src/test/java/jline/console/completer/ArgumentCompleterTest.java,vi keymap bindings in inputrc broken  fixes #113
+CHANGELOG.md,Update copyright year
+CHANGELOG.md,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+CHANGELOG.md,Avoid NPE in case of an empty config cache
+CHANGELOG.md,Update headers
+CHANGELOG.md,Update change log
+src/test/java/jline/console/history/HistoryTest.java,Update copyright year
+src/test/java/jline/console/history/HistoryTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/history/HistoryTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/console/history/HistoryTest.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/test/java/jline/console/history/HistoryTest.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/test/java/jline/TerminalLineSettingsTest.java,Fix stty parsing to easily extract properties.
+src/test/java/jline/TerminalLineSettingsTest.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/main/java/jline/internal/Ansi.java,Update copyright year
+src/main/java/jline/internal/Ansi.java,Forgot to add new files in commit 89c54a94b8f98506be82c342d8652d454e5361cc
+src/main/java/jline/internal/ReplayPrefixOneCharInputStream.java,Big refactoring of the jline key binding support to be closer to readline()..
+src/main/java/jline/internal/ReplayPrefixOneCharInputStream.java,Tidy
+src/main/java/jline/internal/ReplayPrefixOneCharInputStream.java,Sanity checks
+src/main/java/jline/internal/ReplayPrefixOneCharInputStream.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/main/java/jline/Completor.java,some initial reorg
+src/main/java/jline/Completor.java,Formatting fixes; copyright date updates
+src/main/java/jline/Completor.java,Fixed bug #991465
+src/main/java/jline/console/completionhandler/CompletionHandler.java,Move completion handler bits
+src/main/java/jline/console/completionhandler/CompletionHandler.java,Tidy
+src/main/java/jline/console/completionhandler/CompletionHandler.java,Move completion handlers for now
+src/main/java/jline/console/SimpleHistory.java,Some history clean up  need to rewrite FileHistory to be aware of its file ..
+src/main/java/jline/console/SimpleHistory.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/main/java/jline/console/SimpleHistory.java,Tidy History muck
+src/main/java/jline/console/SimpleHistory.java,Tidy
+src/main/java/jline/console/SimpleHistory.java,More clean up muck
+src/main/java/jline/console/completer/AnsiStringsCompleter.java,Update copyright year
+src/main/java/jline/console/completer/AnsiStringsCompleter.java,Build cleanup  fixes #191
+src/main/java/jline/console/completer/AnsiStringsCompleter.java,Forgot to add new files in commit 89c54a94b8f98506be82c342d8652d454e5361cc
+src/test/java/jline/ConsoleReaderTest.java,Get everything compiling again
+src/test/java/jline/ConsoleReaderTest.java,Tidy
+src/test/java/jline/ConsoleReaderTest.java,some initial reorg
+src/test/java/jline/ConsoleReaderTest.java,Added new ConsoleReaderTest  Terminal.resetTerminal()
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Update copyright year
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Avoid NPE in case of an empty config cache
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/resources/jline/console/completer/CandidateListCompletionHandler.properties,Update log to special case last message if its an exception
+src/main/java/jline/console/history/History.java,Update copyright year
+src/main/java/jline/console/history/History.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/history/History.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/history/History.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/history/History.java,Update log to special case last message if its an exception
+src/test/java/jline/console/history/FileHistoryTest.java,Update copyright year
+src/test/java/jline/console/history/FileHistoryTest.java,FileHistory NullpointerException  fixes #171
+src/main/java/jline/TerminalSupport.java,Update copyright year
+src/main/java/jline/TerminalSupport.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/TerminalSupport.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/TerminalSupport.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/main/java/jline/TerminalSupport.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/main/java/jline/AnsiWindowsTerminal.java,Update copyright year
+src/main/java/jline/AnsiWindowsTerminal.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/AnsiWindowsTerminal.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/AnsiWindowsTerminal.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/AnsiWindowsTerminal.java,Avoid blowing up if nonBlockingInput is not really non-blocking
+src/main/java/jline/console/Key.java,Big refactoring of the jline key binding support to be closer to readline()..
+src/main/java/jline/console/Key.java,adding basic search backwards capabilitiesCTRL-R now maps to the reverse-..
+src/main/java/jline/console/Key.java,Presumably fix backspace on Mac OS X and other BSD based systems. Patch ada..
+src/main/java/jline/console/Key.java,Tidy
+src/main/java/jline/console/Key.java,More more common bits up to TerminalSupportSplit off console modes from wi..
+src/main/java/jline/TerminalFactory.java,Fix for FreeBSD.
+src/main/java/jline/TerminalFactory.java,Update copyright year
+src/main/java/jline/TerminalFactory.java,Build cleanup  fixes #191
+src/main/java/jline/TerminalFactory.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/TerminalFactory.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/internal/TestAccessible.java,Update copyright year
+src/main/java/jline/internal/TestAccessible.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/TestAccessible.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/TestAccessible.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/internal/TestAccessible.java,Avoid blowing up if nonBlockingInput is not really non-blocking
+src/main/java/jline/console/CandidateListCompletionHandler.java,Re-org jline stuff a little
+src/main/java/jline/console/CandidateListCompletionHandler.java,Tidy
+src/main/java/jline/console/CandidateListCompletionHandler.java,Update spelling
+src/main/java/jline/console/CandidateListCompletionHandler.java,Drop eager newline stuff
+src/main/java/jline/console/CandidateListCompletionHandler.java,Drop eager newline stuff
+src/main/java/jline/package.html,some initial reorg
+src/main/java/jline/CandidateListCompletionHandler.java,some initial reorg
+src/main/java/jline/CandidateListCompletionHandler.java,Improvement.
+src/main/java/jline/CandidateListCompletionHandler.java,Fixed some trailing whitespace
+src/main/java/jline/CandidateListCompletionHandler.java,Formatting fixes; copyright date updates
+src/main/java/jline/CandidateListCompletionHandler.java,Patch by damian.steer@hp.com that fixes bugs in mid-word tab completion as ..
+src/main/java/jline/console/completers/AggregateCompleter.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/AggregateCompleter.java,Changed jline version to 2.3-SNAPSHOTUpdated ArgumentCompleter to use a Li..
+src/main/java/jline/console/completers/AggregateCompleter.java,Tidy
+src/main/java/jline/console/completers/AggregateCompleter.java,Add package docs
+src/main/java/jline/console/completers/AggregateCompleter.java,Using CharSequence
+pom.xml,Enforce maven 3  fixes #221
+pom.xml,Enforce maven 3  fixes #221
+pom.xml,Fix bad goal in pom  fixes #211
+pom.xml,Fix javadoc compilation on JDK8
+pom.xml,[maven-release-plugin] prepare for next development iteration
+src/main/java/jline/internal/NonBlockingInputStream.java,Update copyright year
+src/main/java/jline/internal/NonBlockingInputStream.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/internal/NonBlockingInputStream.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/internal/NonBlockingInputStream.java,Fix incorrect and noop javadoc tags* Fix incorrect use of @see javadoc ta..
+src/main/java/jline/internal/NonBlockingInputStream.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/site/resources/.DS_Store,Tidy build muck
+src/test/java/jline/internal/CursesTest.java,Update copyright year
+src/test/java/jline/internal/CursesTest.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/main/java/jline/Terminal.java,Update copyright year
+src/main/java/jline/Terminal.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/Terminal.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/Terminal.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/main/java/jline/Terminal.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/main/java/jline/console/completer/NullCompleter.java,Update copyright year
+src/main/java/jline/console/completer/NullCompleter.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/NullCompleter.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/NullCompleter.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/completer/NullCompleter.java,Update log to special case last message if its an exception
+src/main/java/jline/internal/package-info.java,Update copyright year
+src/main/java/jline/internal/package-info.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/package-info.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/package-info.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/internal/package-info.java,Update log to special case last message if its an exception
+src/test/resources/jline/emtpy-config,Fix junit tests
+src/main/java/jline/console/FileHistory.java,Put history impl into its own package
+src/main/java/jline/console/FileHistory.java,Use reader to load files  fixed sp
+src/main/java/jline/console/FileHistory.java,Added more doc  removed stupid assert  added some logging
+src/main/java/jline/console/FileHistory.java,Added persistent history
+src/main/java/jline/console/FileHistory.java,Some history clean up  need to rewrite FileHistory to be aware of its file ..
+src/test/java/jline/console/TestHistory.java,Fixed up tests
+src/test/java/jline/console/TestHistory.java,Get everything compiling again
+src/test/java/jline/internal/ConfigurationTest.java,Update copyright year
+src/test/java/jline/internal/ConfigurationTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/internal/ConfigurationTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/internal/ConfigurationTest.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/test/java/jline/internal/ConfigurationTest.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/main/java/jline/console/completers/ClassNameCompleter.java,Add no bell
+src/main/java/jline/console/completers/ClassNameCompleter.java,Clean up a bunch of stuff  import completer impls from gshell
+src/main/java/jline/ArgumentCompletor.java,some initial reorg
+src/main/java/jline/ArgumentCompletor.java,Formatting fixes; copyright date updates
+src/main/java/jline/ArgumentCompletor.java,Fixed bug #991465
+src/main/java/jline/UnixTerminal.java,Fix for FreeBSD.
+src/main/java/jline/UnixTerminal.java,Update copyright year
+src/main/java/jline/UnixTerminal.java,Clean up InfoCmp a bit
+src/main/java/jline/UnixTerminal.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/main/java/jline/UnixTerminal.java,Use a singleton per device for TerminalLineSettings  fixes #163
+src/main/java/jline/console/history/MemoryHistory.java,Update copyright year
+src/main/java/jline/console/history/MemoryHistory.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/console/history/MemoryHistory.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/console/history/MemoryHistory.java,Fix incorrect and noop javadoc tags* Fix incorrect use of @see javadoc ta..
+src/main/java/jline/console/history/MemoryHistory.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/JLineTestCase.java,Fixed up tests
+src/test/java/jline/console/JLineTestCase.java,Get everything compiling again
+src/main/resources/jline/CandidateListCompletionHandler.properties,Move completion handler bits
+src/main/resources/jline/CandidateListCompletionHandler.properties,Patch by damian.steer@hp.com which adds a ConsoleReader.setUsePagination me..
+src/main/java/jline/console/completers/FileNameCompleter.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/FileNameCompleter.java,Some more clean up  and tests
+src/main/java/jline/console/completers/FileNameCompleter.java,Tidy
+src/main/java/jline/console/completers/FileNameCompleter.java,Tidy
+src/main/java/jline/console/completers/FileNameCompleter.java,Tidy
+src/main/java/jline/console/completer/ArgumentCompleter.java,Update copyright year
+src/main/java/jline/console/completer/ArgumentCompleter.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/console/completer/ArgumentCompleter.java,Merge pull request #193 from ctubbsii/lc-fixFix getting encoding from the..
+src/main/java/jline/console/completer/ArgumentCompleter.java,Fix getting encoding from the system environmentThis change improves the ..
+src/main/java/jline/console/completer/ArgumentCompleter.java,vi keymap bindings in inputrc broken  fixes #113
+src/assembly/assembly.xml,Tidy build muck
+src/assembly/assembly.xml,Tidy
+src/assembly/assembly.xml,Final release 0.9.9 cleanup
+src/main/java/jline/console/PersistentHistory.java,Re-org jline stuff a little
+src/main/java/jline/console/PersistentHistory.java,Tidy
+src/main/java/jline/console/PersistentHistory.java,Added persistent history
+src/test/java/jline/console/HistorySearchTest.java,Fix junit test
+src/test/java/jline/console/HistorySearchTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/HistorySearchTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/console/HistorySearchTest.java,Don't double-abort when quitting a searchAlso clear out search-related st..
+src/test/java/jline/console/HistorySearchTest.java,Retain the existing buffer when aborting search
+src/main/java/jline/console/history/package-info.java,Update copyright year
+src/main/java/jline/console/history/package-info.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/history/package-info.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/history/package-info.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/history/package-info.java,Update log to special case last message if its an exception
+header.txt,Update copyright year
+header.txt,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+header.txt,Avoid NPE in case of an empty config cache
+header.txt,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+header.txt,Update log to special case last message if its an exception
+src/main/java/jline/console/ConsoleRunner.java,Move the runner classes
+src/main/java/jline/console/ConsoleRunner.java,Tidy
+src/main/java/jline/console/ConsoleRunner.java,some initial reorg
+src/main/java/jline/console/CandidateCycleCompletionHandler.java,Tidy
+src/main/java/jline/console/CandidateCycleCompletionHandler.java,some initial reorg
+src/test/java/jline/console/KillRingTest.java,Update copyright year
+src/test/java/jline/console/KillRingTest.java,Merge branch 'pulls/94'
+src/test/java/jline/console/KillRingTest.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/test/java/jline/console/KillRingTest.java,Added a bunch of new tests using the ConsoleReaderTestSupport infrastructur..
+src/test/java/jline/console/KillRingTest.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/main/java/jline/completer/NullCompleter.java,Tidy
+src/main/java/jline/completer/NullCompleter.java,some initial reorg
+src/main/java/jline/CandidateCycleCompletionHandler.java,some initial reorg
+src/main/java/jline/CandidateCycleCompletionHandler.java,Formatting fixes; copyright date updates
+src/test/java/jline/console/completer/StringsCompleterTest.java,Update copyright year
+src/test/java/jline/console/completer/StringsCompleterTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/completer/StringsCompleterTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/console/completer/StringsCompleterTest.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/test/java/jline/console/completer/StringsCompleterTest.java,Update log to special case last message if its an exception
+src/main/java/jline/internal/Preconditions.java,Update copyright year
+src/main/java/jline/internal/Preconditions.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/Preconditions.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/Preconditions.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/internal/Preconditions.java,Update log to special case last message if its an exception
+src/main/java/jline/console/completionhandler/CandidateListCompletionHandler.java,Move completion handler bits
+src/main/java/jline/console/completionhandler/CandidateListCompletionHandler.java,Tidy
+src/main/java/jline/console/completionhandler/CandidateListCompletionHandler.java,StringBuffer to StringBuilder
+src/main/java/jline/console/completionhandler/CandidateListCompletionHandler.java,Move completion handlers for now
+src/main/java/jline/console/completers/EnumCompleter.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/EnumCompleter.java,Tidy
+src/main/java/jline/console/completers/EnumCompleter.java,Tidy
+src/main/java/jline/console/completers/EnumCompleter.java,Add enum completer
+src/main/resources/jline/jline.dll,Added new DLL for 64-bit Windows thanks to a build of it by Christian Salm
+src/main/java/jline/console/completer/CompletionHandler.java,Update copyright year
+src/main/java/jline/console/completer/CompletionHandler.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/CompletionHandler.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/CompletionHandler.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/completer/CompletionHandler.java,Update log to special case last message if its an exception
+src/main/java/jline/console/History.java,Re-org jline stuff a little
+src/main/java/jline/console/History.java,Tidy
+src/main/java/jline/console/History.java,Max size does not belong in the histort intf
+src/main/java/jline/console/History.java,Some history clean up  need to rewrite FileHistory to be aware of its file ..
+src/main/java/jline/console/History.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/site/resources/images/ico_file_pdf.png,TidyDrop site muck
+src/main/java/jline/console/CompletionHandler.java,Re-org jline stuff a little
+src/main/java/jline/console/CompletionHandler.java,Tidy
+src/main/java/jline/console/CompletionHandler.java,Using CharSequence
+src/main/java/jline/console/CompletionHandler.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/main/java/jline/console/CompletionHandler.java,Tidy
+src/main/java/jline/console/completer/SimpleCompleter.java,Clean up a bunch of stuff  import completer impls from gshell
+src/main/java/jline/console/completer/SimpleCompleter.java,History is an interface now
+src/main/java/jline/console/completer/SimpleCompleter.java,Tidy
+src/main/java/jline/console/ConsoleReaderShutdownHook.java,Revert "More 'vi' unit tests. Added JVM shutdown hook to restore the termin..
+src/main/java/jline/console/ConsoleReaderShutdownHook.java,More 'vi' unit tests. Added JVM shutdown hook to restore the terminal.
+src/test/java/jline/example/PasswordReader.java,Update copyright year
+src/test/java/jline/example/PasswordReader.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/example/PasswordReader.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/example/PasswordReader.java,Distinguish carriage return from newline
+src/test/java/jline/example/PasswordReader.java,Handle another dumb terminal scenarioEmacs `M-x eshell` prompted this one..
+src/main/resources/jline/jline64.dll,Re-implemented native lib loading
+src/main/resources/jline/jline64.dll,Added new DLL for 64-bit Windows thanks to a build of it by Christian Salm
+src/main/java/jline/console/WCWidth.java,Update copyright year
+src/main/java/jline/console/WCWidth.java,Support for tab characters  fixes #129
+src/main/java/jline/console/WCWidth.java,Fixes issue #135 with double-width characters
+src/test/java/jline/TerminalFactoryTest.java,Update copyright year
+src/test/java/jline/TerminalFactoryTest.java,Term dumb inside emacs still allow ansi supportAllow a regular unix termin..
+src/test/java/jline/TerminalFactoryTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/TerminalFactoryTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/TerminalFactoryTest.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/UserInterruptException.java,Update copyright year
+src/main/java/jline/console/UserInterruptException.java,Fixing various javac warnings
+src/main/java/jline/console/UserInterruptException.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/UserInterruptException.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/UserInterruptException.java,Update headers
+src/test/java/jline/TestEditLine.java,Get everything compiling again
+src/test/java/jline/TestEditLine.java,Tidy
+src/test/java/jline/TestEditLine.java,some initial reorg
+src/test/java/jline/TestEditLine.java,Formatting fixes; copyright date updates
+src/main/java/jline/internal/Curses.java,Update copyright year
+src/main/java/jline/internal/Curses.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/site/site.xml,Update copyright year
+src/site/site.xml,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/site/site.xml,Avoid NPE in case of an empty config cache
+src/site/site.xml,add pub date for clarity
+src/site/site.xml,Update headers
+src/main/resources/jline/keybindings.properties,Remove old binding files
+src/main/resources/jline/keybindings.properties,adding basic search backwards capabilitiesCTRL-R now maps to the reverse-..
+src/main/resources/jline/keybindings.properties,Fix delete button on Ubuntu
+src/main/resources/jline/keybindings.properties,Use = instead of :
+src/main/resources/jline/keybindings.properties,Fixed bug where the delete key deletes the next character  instead of the p..
+src/main/java/jline/History.java,some initial reorg
+src/main/java/jline/History.java,Formatting fixes; copyright date updates
+src/main/java/jline/History.java,Patch for issue #1649790 submitted by Ryan Bell to get more keys to work on..
+src/main/java/jline/console/ConsoleKeys.java,Fix inputrc mode parsing  fixes #133
+src/main/java/jline/console/ConsoleKeys.java,Update copyright year
+src/main/java/jline/console/ConsoleKeys.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/ConsoleKeys.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/ConsoleKeys.java,Fix wrong merge for blinking paren
+src/main/java/jline/internal/Log.java,Update copyright year
+src/main/java/jline/internal/Log.java,Support JUL as a logging mechanismFixes #93
+src/main/java/jline/internal/Log.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/internal/Log.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/internal/Log.java,Eliminate warnings about resources and unused varsThis fixes some warning..
+src/main/java/jline/console/completers/FilterStringsCompleter.java,Add no bell
+src/main/java/jline/console/completers/FilterStringsCompleter.java,Clean up a bunch of stuff  import completer impls from gshell
+src/main/java/jline/console/MemoryHistory.java,Put history impl into its own package
+src/main/java/jline/console/MemoryHistory.java,Added persistent history
+src/site/resources/images/external.png,TidyDrop site muck
+src/main/java/jline/console/completer/FileNameCompleter.java,Update copyright year
+src/main/java/jline/console/completer/FileNameCompleter.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/FileNameCompleter.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/FileNameCompleter.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/main/java/jline/console/completer/FileNameCompleter.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Update copyright year
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/test/java/jline/console/ConsoleReaderTestSupport.java,vi keymap bindings in inputrc broken  fixes #113
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Eliminate warnings about resources and unused varsThis fixes some warning..
+src/test/java/jline/console/ConsoleReaderTestSupport.java,Fix switch statement in test classAdd a missing default case for switch s..
+src/test/resources/jline/example/english.gz,Fixed up tests
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Update copyright year
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Avoid printing two spaces if the completer already adds one at the end
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Jline should strip ANSI off completion candidates  fixes #132
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Completion finalizing blank suffix should be optional  fixes #90
+src/main/java/jline/console/completer/CandidateListCompletionHandler.java,Fixes #128: print a new line before the Display all N possibilities message
+src/main/java/jline/MultiCompletor.java,some initial reorg
+src/main/java/jline/MultiCompletor.java,Formatting fixes; copyright date updates
+src/main/java/jline/console/completers/NullCompleter.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/NullCompleter.java,Tidy
+src/main/java/jline/console/completers/NullCompleter.java,Using CharSequence
+src/main/java/jline/console/completers/NullCompleter.java,Clean up a bunch of stuff  import completer impls from gshell
+src/main/java/jline/ANSIBuffer.java,some initial reorg
+src/main/java/jline/ANSIBuffer.java,Formatting fixes; copyright date updates
+src/main/java/jline/CompletionHandler.java,some initial reorg
+src/main/java/jline/CompletionHandler.java,Formatting fixes; copyright date updates
+src/test/java/jline/readline/KeyMapTest.java,Update copyright year
+src/test/java/jline/readline/KeyMapTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/readline/KeyMapTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/readline/KeyMapTest.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/test/java/jline/readline/KeyMapTest.java,Update log to special case last message if its an exception
+src/main/java/jline/NoInterruptUnixTerminal.java,Update copyright year
+src/main/java/jline/NoInterruptUnixTerminal.java,Removed usage of /dev/tty from TerminalLineSettings. Used ProcessBuilder fr..
+src/main/java/jline/NoInterruptUnixTerminal.java,Terminal input setting for intr is overriden to Ctrl+C when user interrupti..
+src/main/java/jline/NoInterruptUnixTerminal.java,Merge pull request #160 from gertv/undef_on_hpuxFix stty undef on HP-UX
+src/main/java/jline/NoInterruptUnixTerminal.java,Added support for custom terminal devices
+src/main/java/jline/console/completer/ClassNameCompleter.java,Clean up a bunch of stuff  import completer impls from gshell
+src/main/java/jline/console/completer/ClassNameCompleter.java,Tidy
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Update copyright year
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/test/java/jline/internal/TerminalLineSettingsTest.java,vi keymap bindings in inputrc broken  fixes #113
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Eliminate warnings about resources and unused varsThis fixes some warning..
+src/test/java/jline/internal/TerminalLineSettingsTest.java,Use a singleton per device for TerminalLineSettings  fixes #163
+src/test/resources/jline/internal/jlinerc2,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/test/resources/jline/internal/jlinerc2,Avoid blowing up if nonBlockingInput is not really non-blocking
+src/test/resources/jline/internal/jlinerc2,Change warn -> debug when failed to load properties on init.Lazy init prop..
+src/test/java/jline/TestCompletion.java,Get everything compiling again
+src/test/java/jline/TestCompletion.java,Tidy
+src/test/java/jline/TestCompletion.java,some initial reorg
+src/test/java/jline/TestCompletion.java,Formatting fixes; copyright date updates
+src/test/java/jline/TestCompletion.java,Fixed bug #991465
+src/main/java/jline/CursorBuffer.java,some initial reorg
+src/main/java/jline/CursorBuffer.java,Removed JLineStringBuilder and JLineBuffer  since they were JDK 1.5+
+src/main/java/jline/CursorBuffer.java,Improvement.
+src/main/java/jline/CursorBuffer.java,Formatting fixes; copyright date updates
+src/main/java/jline/CursorBuffer.java,Patch for issue #1649790 submitted by Ryan Bell to get more keys to work on..
+src/main/native/jline_WindowsTerminal.h,Bring back HawtJNI  for 2.4-SNAPSHOT...Revert "Reverting master back to 9..
+src/main/native/jline_WindowsTerminal.h,Reverting master back to 93ac8cb106326f239c37f744ad91065d001acb73 (pre-hawt..
+src/main/native/jline_WindowsTerminal.h,Reuse jani's native methods so we can get rid of our jni implementation
+src/main/native/jline_WindowsTerminal.c,Bring back HawtJNI  for 2.4-SNAPSHOT...Revert "Reverting master back to 9..
+src/main/native/jline_WindowsTerminal.c,Reverting master back to 93ac8cb106326f239c37f744ad91065d001acb73 (pre-hawt..
+src/main/native/jline_WindowsTerminal.c,Reuse jani's native methods so we can get rid of our jni implementation
+src/main/native/jline_WindowsTerminal.c,Update formatting
+src/main/java/jline/ConsoleRunner.java,some initial reorg
+src/main/java/jline/ConsoleRunner.java,Formatting fixes; copyright date updates
+src/main/java/jline/ConsoleRunner.java,Fixed bug #991465
+src/main/resources/jline/jline32.dll,Re-implemented native lib loading
+src/main/resources/jline/jline32.dll,Added new DLL for 64-bit Windows thanks to a build of it by Christian Salm
+src/main/native/Makefile,Bring back HawtJNI  for 2.4-SNAPSHOT...Revert "Reverting master back to 9..
+src/main/native/Makefile,Reverting master back to 93ac8cb106326f239c37f744ad91065d001acb73 (pre-hawt..
+src/main/native/Makefile,Reuse jani's native methods so we can get rid of our jni implementation
+src/main/native/Makefile,Forgot to add the Makefile
+src/main/java/jline/console/VirtualKey.java,Split up key and operation  drop ConsoleOperations intf
+src/main/java/jline/console/VirtualKey.java,Converted most of ConsoleOperations to VirtualKey enum
+src/site/apt/downloads.apt,TidyDrop site muck
+src/site/apt/downloads.apt,Final release 0.9.9 cleanup
+src/site/apt/building.apt,TidyDrop site muck
+src/site/apt/building.apt,Final release 0.9.9 cleanup
+src/main/java/jline/NullCompletor.java,some initial reorg
+src/main/java/jline/NullCompletor.java,Formatting fixes; copyright date updates
+src/test/resources/jline/internal/jlinerc1,Move inputrc constsants into ConsoleReader where they are used.Added Urls ..
+src/test/java/jline/console/ConsoleReaderTest.java,Update copyright year
+src/test/java/jline/console/ConsoleReaderTest.java,Add a working unit test for readBinding (#152)
+src/test/java/jline/console/ConsoleReaderTest.java,Allow a default buffer value in the buffer with readLine()  fixes #177
+src/test/java/jline/console/ConsoleReaderTest.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/test/java/jline/console/ConsoleReaderTest.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/console/Completer.java,Re-org jline stuff a little
+src/main/java/jline/console/Completer.java,Changed jline version to 2.3-SNAPSHOTUpdated ArgumentCompleter to use a Li..
+src/main/java/jline/console/Completer.java,Tidy
+src/main/java/jline/console/Completer.java,Using CharSequence
+src/main/java/jline/console/Completer.java,Fix all completer sp
+src/test/resources/jline/internal/config1,Big refactoring of the jline key binding support to be closer to readline()..
+README.md,Enforce maven 3  fixes #221
+README.md,Update copyright year
+README.md,update version
+README.md,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+README.md,Avoid NPE in case of an empty config cache
+src/main/resources/jline/console/CandidateListCompletionHandler.properties,Fixed tests
+src/main/resources/jline/console/CandidateListCompletionHandler.properties,Use enum for messages
+src/main/resources/jline/console/CandidateListCompletionHandler.properties,Use = instead of :
+src/main/resources/jline/console/CandidateListCompletionHandler.properties,Move completion handler bits
+src/main/java/jline/console/completer/package-info.java,Update copyright year
+src/main/java/jline/console/completer/package-info.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/package-info.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/package-info.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/completer/package-info.java,Update log to special case last message if its an exception
+src/main/java/jline/console/package-info.java,Update copyright year
+src/main/java/jline/console/package-info.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/package-info.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/package-info.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/package-info.java,Update log to special case last message if its an exception
+src/site/docbook/index.xml,TidyDrop site muck
+src/site/docbook/index.xml,Move the runner classes
+src/site/docbook/index.xml,Tidy
+src/site/docbook/index.xml,some initial reorg
+src/site/docbook/index.xml,Release 0.9.93
+src/main/java/jline/internal/InfoCmp.java,Update copyright year
+src/main/java/jline/internal/InfoCmp.java,Clean up InfoCmp a bit
+src/main/java/jline/internal/InfoCmp.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/site/resources/images/logo.jpg,TidyDrop site muck
+src/main/java/jline/Log.java,Fixed up headersMoved some bits to internalReduced log codeExtracted Rep..
+src/main/java/jline/Log.java,When trace is enabled so is debug
+src/main/java/jline/Log.java,Add trace()
+src/main/java/jline/Log.java,Add logger  can't use slf4j here  Adding tests for factory
+src/test/java/jline/example/Example.java,Update copyright year
+src/test/java/jline/example/Example.java,Use background color to test clearScreen()  #151
+src/test/java/jline/example/Example.java,Jline should strip ANSI off completion candidates  fixes #132
+src/test/java/jline/example/Example.java,Avoid duplicate prompt on user-land clearScreenThis was happening when ca..
+src/test/java/jline/example/Example.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/runner/ConsoleReaderInputStream.java,Move to console.internal until this stuff can be cleaned up for proper publ..
+src/main/java/jline/console/runner/ConsoleReaderInputStream.java,Merge branch 'console-runner'
+src/main/java/jline/console/runner/ConsoleReaderInputStream.java,Change groupId back to jline
+src/main/java/jline/console/runner/ConsoleReaderInputStream.java,Bring back ConsoleRunner which was accidentally (?) nuked in 677269e5d428e5..
+src/main/java/jline/console/runner/ConsoleReaderInputStream.java,More clean up muck
+src/main/java/jline/console/ConsoleReader.java,Merge pull request #217 from hyee/masterFix on ConsoleReader.printColumns
+src/main/java/jline/console/ConsoleReader.java,Fix for FreeBSD.
+src/main/java/jline/console/ConsoleReader.java,Update ConsoleReader.java
+src/main/java/jline/console/ConsoleReader.java,Fix messed output when completing in the middle of an argument
+src/main/java/jline/console/ConsoleReader.java,Update copyright year
+src/test/java/jline/console/completers/ArgumentCompleterTest.java,Re-org jline stuff a little
+src/test/java/jline/console/completers/ArgumentCompleterTest.java,More tidy muck
+src/test/java/jline/console/completers/ArgumentCompleterTest.java,Some more clean up  and tests
+src/test/java/jline/console/completers/ArgumentCompleterTest.java,Tidy
+src/test/java/jline/console/completers/ArgumentCompleterTest.java,Build a test jar  move completers to seperate tests
+src/main/java/jline/internal/InputStreamReader.java,Update copyright year
+src/main/java/jline/internal/InputStreamReader.java,Use Charset.defaultCharset() instead of accessing the file.encoding system ..
+src/main/java/jline/internal/InputStreamReader.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/InputStreamReader.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/InputStreamReader.java,Allow custom InputStreamReader to read non-BMPThese multiple-char charact..
+src/main/java/jline/JLineBuffer.java,Removed JLineStringBuilder and JLineBuffer  since they were JDK 1.5+
+src/main/java/jline/JLineBuffer.java,Fix
+src/main/java/jline/console/completers/package-info.java,Re-org jline stuff a little
+src/main/java/jline/console/completers/package-info.java,Add package docs
+src/test/java/jline/console/HistoryTest.java,Fixed tests
+src/test/java/jline/console/HistoryTest.java,Tidy imports
+src/test/java/jline/console/HistoryTest.java,Tidy
+src/test/java/jline/console/HistoryTest.java,Tidy imports
+src/test/java/jline/console/HistoryTest.java,Tidy
+src/main/resources/jline/windowsbindings.properties,Remove old binding files
+src/main/resources/jline/windowsbindings.properties,Merge branch 'test'
+src/main/resources/jline/windowsbindings.properties,Revert "Fix pasting over the end of line"This reverts commit 490ebf819956..
+src/main/resources/jline/windowsbindings.properties,Fix for an NPE on windows (scala trac #4194.)
+src/main/resources/jline/windowsbindings.properties,Use the sniffer
+src/site/resources/images/dotted.png,TidyDrop site muck
+src/main/java/jline/UnsupportedTerminal.java,Update copyright year
+src/main/java/jline/UnsupportedTerminal.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/UnsupportedTerminal.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/UnsupportedTerminal.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/UnsupportedTerminal.java,Update log to special case last message if its an exception
+src/main/java/jline/console/completer/StringsCompleter.java,Update copyright year
+src/main/java/jline/console/completer/StringsCompleter.java,Fix #180: completion in the middle of the buffer should not add a space
+src/main/java/jline/console/completer/StringsCompleter.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/StringsCompleter.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/StringsCompleter.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/site/resources/images/newwindow.png,TidyDrop site muck
+src/main/java/jline/completer/MultiCompleter.java,Tidy
+src/main/java/jline/completer/MultiCompleter.java,some initial reorg
+src/test/java/jline/console/EditLineTest.java,Update copyright year
+src/test/java/jline/console/EditLineTest.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/test/java/jline/console/EditLineTest.java,vi keymap bindings in inputrc broken  fixes #113
+src/test/java/jline/console/EditLineTest.java,Eliminate warnings about resources and unused varsThis fixes some warning..
+src/test/java/jline/console/EditLineTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/KeyMap.java,Fix inputrc mode parsing  fixes #133
+src/main/java/jline/console/KeyMap.java,Update copyright year
+src/main/java/jline/console/KeyMap.java,Fix typo
+src/main/java/jline/console/KeyMap.java,Add a working unit test for readBinding (#152)
+src/main/java/jline/console/KeyMap.java,Merge pull request #193 from ctubbsii/lc-fixFix getting encoding from the..
+src/main/java/jline/ConsoleReader.java,some initial reorg
+src/main/java/jline/ConsoleReader.java,Use the provided terminal when determining the height / width in the Consol..
+src/main/java/jline/ConsoleReader.java,Drop invalid javadoc
+src/main/java/jline/ConsoleReader.java,Fix problem with ctrl+d (EOF) in the middle of a line (did completion inste..
+src/main/java/jline/ConsoleReader.java,support auf UTF-8 in Windows
+src/main/java/jline/SimpleCompletor.java,some initial reorg
+src/main/java/jline/SimpleCompletor.java,Formatting fixes; copyright date updates
+src/main/java/jline/console/completer/EnumCompleter.java,Merge pull request #200 from adzubla/masterOption to choose if the enum w..
+src/main/java/jline/console/completer/EnumCompleter.java,Fix javadoc compilation with jdk8
+src/main/java/jline/console/completer/EnumCompleter.java,Option to choose if the enum will be completed in lower case
+src/main/java/jline/console/completer/EnumCompleter.java,Update copyright year
+src/main/java/jline/console/completer/EnumCompleter.java,Fixing various javac warnings
+LICENSE.txt,Update copyright year
+LICENSE.txt,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+LICENSE.txt,Avoid NPE in case of an empty config cache
+LICENSE.txt,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+LICENSE.txt,Update log to special case last message if its an exception
+src/main/java/jline/console/internal/ConsoleRunner.java,Flush history when using ConsoleRunner  fixes ##219
+src/main/java/jline/console/internal/ConsoleRunner.java,Update copyright year
+src/main/java/jline/console/internal/ConsoleRunner.java,Fix "java.lang.IllegalArgumentException: wrong number of arguments" when in..
+src/main/java/jline/console/internal/ConsoleRunner.java,Fixing various javac warnings
+src/main/java/jline/console/internal/ConsoleRunner.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Update copyright year
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Merge branch 'pulls/139'
+src/test/java/jline/console/completer/WhitespaceDelimiterTest.java,Merge pull request #134 from fantasy86/masterOn Windows use Virtual Key C..
+src/main/java/jline/console/Operation.java,Update copyright year
+src/main/java/jline/console/Operation.java,Fix typo
+src/main/java/jline/console/Operation.java,Allow a binding to be invoked  if found inside secondary KeyMap (like EMACS..
+src/main/java/jline/console/Operation.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/Operation.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/completer/ArgumentCompleter.java,Tidy
+src/main/java/jline/completer/ArgumentCompleter.java,some initial reorg
+src/main/java/jline/internal/Nullable.java,Update copyright year
+src/main/java/jline/internal/Nullable.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/Nullable.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/Nullable.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/internal/Nullable.java,Avoid blowing up if nonBlockingInput is not really non-blocking
+src/site/resources/images/collapsed.png,TidyDrop site muck
+src/test/java/jline/TestHistory.java,Get everything compiling again
+src/test/java/jline/TestHistory.java,Tidy
+src/test/java/jline/TestHistory.java,some initial reorg
+src/test/java/jline/TestHistory.java,Formatting fixes; copyright date updates
+src/test/java/jline/TestHistory.java,Fixed bug #991465
+src/site/resources/css/site.css,TidyDrop site muck
+src/site/resources/css/site.css,Tidy
+src/site/resources/css/site.css,Final release 0.9.9 cleanup
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Update copyright year
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Fixing various javac warnings
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/internal/ConsoleReaderInputStream.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/site/fml/faq.fml,TidyDrop site muck
+src/main/java/jline/internal/TerminalLineSettings.java,Update copyright year
+src/main/java/jline/internal/TerminalLineSettings.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/main/java/jline/internal/TerminalLineSettings.java,Merge pull request #193 from ctubbsii/lc-fixFix getting encoding from the..
+src/main/java/jline/internal/TerminalLineSettings.java,Fix getting encoding from the system environmentThis change improves the ..
+src/main/java/jline/internal/TerminalLineSettings.java,vi keymap bindings in inputrc broken  fixes #113
+src/site/resources/images/jline.jpg,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/site/resources/images/jline.jpg,Avoid NPE in case of an empty config cache
+src/site/resources/images/jline.jpg,Initial site config
+src/main/java/jline/internal/ShutdownHook.java,Refactor into a single thread and a list of tasks.  Unsure what  if any  co..
+src/main/java/jline/internal/ShutdownHook.java,Refactor ShutdownHook management into internal class
+src/test/resources/jline/internal/config-bad,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/resources/jline/internal/config-bad,Avoid NPE in case of an empty config cache
+src/test/resources/jline/internal/config-bad,Merge pull request #42 from trptcolin/inputrc_unsupportedHandle unsupport..
+src/test/resources/jline/internal/config-bad,don't print an error when failing to query stty informationWhen trying to..
+src/test/resources/jline/internal/config-bad,Allow parsing to proceed after inputrc parse error
+codestyle.xml,Final release 0.9.9 cleanup
+src/test/java/jline/console/TestEditLine.java,Fixed up tests
+src/test/java/jline/console/TestEditLine.java,Get everything compiling again
+src/test/java/jline/console/history/MemoryHistoryTest.java,Update copyright year
+src/test/java/jline/console/history/MemoryHistoryTest.java,Build cleanup  fixes #191
+src/test/java/jline/console/history/MemoryHistoryTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/console/history/MemoryHistoryTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/console/history/MemoryHistoryTest.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/resources/jline/win32-amd64/jline.dll,Bring back HawtJNI  for 2.4-SNAPSHOT...Revert "Reverting master back to 9..
+src/main/resources/jline/win32-amd64/jline.dll,Reverting master back to 93ac8cb106326f239c37f744ad91065d001acb73 (pre-hawt..
+src/main/resources/jline/win32-amd64/jline.dll,Reuse jani's native methods so we can get rid of our jni implementation
+src/main/resources/jline/win32-amd64/jline.dll,Re-implemented native lib loading
+src/main/java/jline/console/KillRing.java,Update copyright year
+src/main/java/jline/console/KillRing.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/main/java/jline/console/KillRing.java,vi keymap bindings in inputrc broken  fixes #113
+src/main/java/jline/console/KillRing.java,Fix incorrect and noop javadoc tags* Fix incorrect use of @see javadoc ta..
+src/main/java/jline/console/KillRing.java,Merge branch 'pulls/94'
+src/main/java/jline/ConsoleReaderInputStream.java,some initial reorg
+src/main/java/jline/ConsoleReaderInputStream.java,Formatting fixes; copyright date updates
+src/main/java/jline/ConsoleReaderInputStream.java,Fixed bug #991465
+src/test/java/jline/internal/LogTest.java,Update copyright year
+src/test/java/jline/internal/LogTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/test/java/jline/internal/LogTest.java,Avoid NPE in case of an empty config cache
+src/test/java/jline/internal/LogTest.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/test/java/jline/internal/LogTest.java,Avoid blowing up if nonBlockingInput is not really non-blocking
+src/main/java/jline/completer/SimpleCompleter.java,Tidy
+src/main/java/jline/completer/SimpleCompleter.java,some initial reorg
+src/main/java/jline/internal/Urls.java,Update copyright year
+src/main/java/jline/internal/Urls.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/internal/Urls.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/internal/Urls.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/internal/Urls.java,Update log to special case last message if its an exception
+src/test/java/jline/internal/InfoCmpTest.java,Update copyright year
+src/test/java/jline/internal/InfoCmpTest.java,Clean up InfoCmp a bit
+src/test/java/jline/internal/InfoCmpTest.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/main/java/jline/completer/FileNameCompleter.java,Tidy
+src/main/java/jline/completer/FileNameCompleter.java,some initial reorg
+src/main/java/jline/console/CursorBuffer.java,Update copyright year
+src/main/java/jline/console/CursorBuffer.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/CursorBuffer.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/CursorBuffer.java,Handle out-of-order restore() callsThis avoids an NPE in ShutdownHooks.re..
+src/main/java/jline/console/CursorBuffer.java,Added a new method addBackwards to adds text to the kill ring product of a ..
+src/site/resources/images/expanded.png,TidyDrop site muck
+src/main/java/jline/console/completer/Completer.java,Update copyright year
+src/main/java/jline/console/completer/Completer.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completer/Completer.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/completer/Completer.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/main/java/jline/console/completer/Completer.java,Update log to special case last message if its an exception
+src/main/java/jline/completer/ClassNameCompleter.java,Tidy
+src/main/java/jline/completer/ClassNameCompleter.java,some initial reorg
+src/main/java/jline/DefaultTerminal2.java,Update copyright year
+src/main/java/jline/DefaultTerminal2.java,Clean up InfoCmp a bit
+src/main/java/jline/DefaultTerminal2.java,Support for infocmp capabilities.Rewrite the display of readLine() to leve..
+src/main/java/jline/OSvTerminal.java,Merge pull request #182 from abn/osv-support[Issue #179] Add basic suppor..
+src/main/java/jline/OSvTerminal.java,Fix OSGi headers: do not import swing and do not use a DynamicImport-Packag..
+src/main/java/jline/OSvTerminal.java,[Issue #179] Improve OSvTerminal implementation by using com.cloudius.cli.O..
+src/main/java/jline/OSvTerminal.java,[Issue #179] Add basic support for OSv
+src/main/java/jline/JLineStringBuilder.java,Removed JLineStringBuilder and JLineBuffer  since they were JDK 1.5+
+src/main/java/jline/JLineStringBuilder.java,Fix
+src/main/java/jline/console/history/FileHistory.java,Update copyright year
+src/main/java/jline/console/history/FileHistory.java,FileHistory NullpointerException  fixes #171
+src/main/java/jline/console/history/FileHistory.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/history/FileHistory.java,Avoid NPE in case of an empty config cache
+src/main/java/jline/console/history/FileHistory.java,Merge pull request #35 from jline/consistent-license-headersConsistent li..
+src/test/java/jline/console/ViMoveModeTest.java,Update copyright year
+src/test/java/jline/console/ViMoveModeTest.java,Merge pull request #192 from ctubbsii/eliminate-warningsEliminate warning..
+src/test/java/jline/console/ViMoveModeTest.java,vi keymap bindings in inputrc broken  fixes #113
+src/test/java/jline/console/ViMoveModeTest.java,Fix incorrect and noop javadoc tags* Fix incorrect use of @see javadoc ta..
+src/test/java/jline/console/ViMoveModeTest.java,Merge branch 'pulls/43'Conflicts:	src/main/java/jline/internal/TerminalL..
+src/main/java/jline/console/completionhandler/CandidateCycleCompletionHandler.java,Tidy
+src/main/java/jline/console/completionhandler/CandidateCycleCompletionHandler.java,Move completion handlers for now
+src/main/java/jline/console/ConsoleReaderInputStream.java,Move the runner classes
+src/main/java/jline/console/ConsoleReaderInputStream.java,Tidy
+src/main/java/jline/console/ConsoleReaderInputStream.java,some initial reorg
